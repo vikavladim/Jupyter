@@ -1,0 +1,1 @@
+{"id": 2, "model_type": "<class 'keras.engine.sequential.Sequential'>", "features": ["hum", "temp", "hr", "weekday", "windspeed"], "r2": 0.496697008641815, "rmse": 0.15537415780543026}

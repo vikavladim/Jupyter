@@ -1,0 +1,1 @@
+{"id": 1, "model_type": "<class 'sklearn.linear_model._base.LinearRegression'>", "features": ["hum", "temp", "hr", "weekday", "windspeed"], "r2": 0.3436895809710411, "rmse": 105.21396190074923}
